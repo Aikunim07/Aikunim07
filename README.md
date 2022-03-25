@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aikunim07
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java, Python.
-- 💞️ I’m looking to collaborate with [@Cilions](https://github.com/Cilions)
+- 💞️ I am collaborating with [@Cilions](https://github.com/Cilions)
 - 📫 How to reach me: Discord - ivy#6673
 
 <!---
